@@ -20,5 +20,5 @@ All the information I recived about pets accommondation I divided into two group
 My Null hypotesis could be rejected. Price and score differ statisticly significant. The most expensive city is Paris and the cheapest is Lisabon. Most pets friendly is Paris, and not pets friendly is Lisabon. Amsterdam has no "Cheap and Pets are allowed" hotels. Barcelona, Amsterdam and Lisabon have more hotels in group "Normal price and Pets not allowed". Paris - "Expensive and pets allowed". Rome - "Normal and Pets allowed". "Pets allowed hotels" are more expensive. There are more higly rated "No pets" hotels than "Pets" hotels.
 
 # Links
-Presentation file:///Users/daragavrilova/Downloads/slides-deck-9b2441.html
 Vizualisation with Tableau https://public.tableau.com/profile/daria4279#!/vizhome/Finalproject_16080338645630
+Presentation file:///Users/daragavrilova/Downloads/slides-deck-9b2441.html
